@@ -111,4 +111,4 @@ A clean dodge might tear a hole in space.
 
 ## 📜 License
 
-Academic project — College of Computing, SETU Carlow.
+Academic project — Faculty of Computing, SETU Carlow.
