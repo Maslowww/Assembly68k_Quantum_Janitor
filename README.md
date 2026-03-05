@@ -8,6 +8,10 @@
 
 ---
 
+## 🎬 Watch the Trailer
+
+[![Quantum Janitor Trailer](https://img.youtube.com/vi/5kGpHHQVs2k/maxresdefault.jpg)](https://www.youtube.com/watch?v=5kGpHHQVs2k "Click to watch on YouTube")
+
 ## 📖 Description
 
 You are a **Quantum Janitor** assigned to Sector 7.
